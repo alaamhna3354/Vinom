@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 /*
   Theme Name: Vinom - Buy Game Credits Template
   Support: admin@gmail.com
